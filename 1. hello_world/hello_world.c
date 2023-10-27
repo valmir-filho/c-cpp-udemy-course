@@ -2,8 +2,10 @@
 #include <stdlib.h>
 
 int main() {
-    printf("Hello World!\n");
-    return 0;  // Indicates that the program ran successfully.
+
+    printf("Hello World! \n");
+    
+    return 0;  // Indicates that the program ran successfully
 }
 
 /*
