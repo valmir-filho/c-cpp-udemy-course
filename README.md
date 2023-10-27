@@ -40,6 +40,6 @@
 
 ## Content:
 
-- Exercises and projects developed by Dr. Angela John Haste Udemy.
+- Exercises developed by John Haste from Udemy.
 
 ### Used IDE: Visual Studio Code.
