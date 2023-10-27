@@ -1,5 +1,9 @@
 # Complete C and C++ Language Course - Beginner to Advanced Repository from Udemy.
 
+## Content:
+
+- Exercises developed by John Haste from Udemy.
+
 ## Learnings:
 
 - How to develop programs using the C and C++ languages;
@@ -37,9 +41,5 @@
 - Feedback Messages;
 - Changing Color in the Terminal;
 - Playing in Pairs.
-
-## Content:
-
-- Exercises and projects developed by Dr. Angela John Haste Udemy.
 
 ### Used IDE: Visual Studio Code.
