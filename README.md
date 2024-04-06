@@ -1,8 +1,8 @@
-# Complete C and C++ Language Course - Beginner to Advanced Repository from Udemy.
+# Complete C and C++ Language Course - Beginner to Advanced Repository from Udemy Course.
 
 ## Content:
 
-- Exercises developed by John Haste from Udemy.
+- Exercises developed by John Haste from Udemy Course.
 
 ## Learnings:
 
